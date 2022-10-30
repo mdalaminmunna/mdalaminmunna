@@ -9,6 +9,8 @@
        alt="snake" /></a>
 </div>
 
+<br>
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://www.python.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg'> </a>
 <a href= https://www.djangoproject.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg'> </a>
@@ -29,3 +31,10 @@
 <a href= https://html.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'> </a>
 <a href= https://www.w3schools.com/css/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg'> </a>
 
+<br>
+<br>
+<br>
+
+| ![Md. Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalaminmunna&show_icons=true&theme=tokyonight) | ![Md. Al Amin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdalaminmunna&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalaminmunna&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mdalaminmunna&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
