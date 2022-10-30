@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/waving.gif">, I'm Al Amin</h1>
-<h4 align="center">An ambitious developer and a current student of CSE at United Intermational Univerisity, Bangladesh. See my <a href="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/Resume.pdf" target="_blank">resume</a> for more.</h4>
+<h4 align="center">An ambitious developer and a current student of CSE at United International Univerisity, Bangladesh. See my <a href="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/Resume.pdf" target="_blank">resume</a> to learn more.</h4>
 </div>
 
 <div align="center">
@@ -10,6 +10,14 @@
 </div>
 
 <br>
+
+- 🔭 I’m currently working on Personal Website
+
+- 🌱 I’m currently learning **Django Framework**
+
+- 👨‍💻 All of my projects are available at [github.com/mdalaminmunna](https://github.com/mdalaminmunna)
+
+- 📫 How to reach me **alamin.munna@gmail.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://www.python.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg'> </a>
@@ -30,6 +38,13 @@
 <a href= https://www.postgresql.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg'> </a>
 <a href= https://html.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'> </a>
 <a href= https://www.w3schools.com/css/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg'> </a>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/mdalamin9/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
+<a href = 'https://github.com/mdalaminmunna'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></a>
+<a href = 'https://www.facebook.com/tyson.hawk.79/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/></a>
+<a href = 'https://www.instagram.com/tyson_hawk_/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></a>
+  
 
 <br>
 <br>
