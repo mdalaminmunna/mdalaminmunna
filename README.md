@@ -41,9 +41,9 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/mdalamin9/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
-<a href = 'https://github.com/mdalaminmunna'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></a>
 <a href = 'https://www.facebook.com/tyson.hawk.79/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/></a>
-<a href = 'https://www.instagram.com/tyson_hawk_/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></a>
+<a href = 'https://www.instagram.com/tyson_hawk_/'> <img width = '70px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/icons8-instagram-400.svg"/></a>
+<a href = 'Tyson Hawk#4646'> <img width = '70px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/icons8-instagram-400.svg"/></a>
   
 
 <br>
