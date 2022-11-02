@@ -20,7 +20,7 @@
 - 📫 How to reach me **alamin.munna@gmail.com**
 
 <h2> Skills <img src = "https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/skill.gif" width = 32px> </h2>
-<a href= https://www.python.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg'> </a>
+<a href= https://www.python.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/python-original-wordmark.svg'> </a>
 <a href= https://www.djangoproject.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg'> </a>
 <a href= https://www.docker.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg'> </a>
 <a href= https://www.anaconda.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg'> </a>
