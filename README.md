@@ -21,12 +21,12 @@
 
 <h2> Skills <img src = "https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/skill.gif" width = 32px> </h2>
 <a href= https://www.python.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/python-original-wordmark.svg'> </a>
-<a href= https://www.djangoproject.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg'> </a>
-<a href= https://www.docker.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg'> </a>
-<a href= https://www.anaconda.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg'> </a>
-<a href= https://jupyter.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg'> </a>
+<a href= https://www.djangoproject.com/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/django-plain-wordmark.svg'> </a>
+<a href= https://www.docker.com/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/docker-original-wordmark.svg'> </a>
+<a href= https://www.anaconda.com/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/anaconda-original-wordmark.svg'> </a>
+<a href= https://jupyter.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/jupyter-original-wordmark.svg'> </a>
 <a href= https://scikit-learn.org/stable/ > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://www.tensorflow.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg'> </a>
+<a href= https://www.tensorflow.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/tensorflow-original-wordmark.svg'> </a>
 <a href= https://pandas.pydata.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg'> </a>
 <a href= https://numpy.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg'> </a>
 <a href= https://pytorch.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg'> </a>
