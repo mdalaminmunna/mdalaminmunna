@@ -43,8 +43,8 @@
 <br>
 
 <h2> Connect with me <img src='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/mdalamin9/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
-<a href = 'https://www.facebook.com/tyson.hawk.79/'> <img width = '50px' align= 'center' src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"/></a>
+<a href = 'https://www.linkedin.com/in/mdalamin9/'> <img width = '50px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/linkedin-original.svg"/></a>
+<a href = 'https://www.facebook.com/tyson.hawk.79/'> <img width = '50px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/facebook-original.svg"/></a>
 <a href = 'https://www.instagram.com/tyson_hawk_/'> <img width = '70px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/icons8-instagram-400.svg"/></a>
 <a href = 'https://discord.com/channels/@me'> <img width = '40px' align= 'center' src="https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/discord-seeklogo.com.svg"/></a>
   
