@@ -27,17 +27,17 @@
 <a href= https://jupyter.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/jupyter-original-wordmark.svg'> </a>
 <a href= https://scikit-learn.org/stable/ > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://www.tensorflow.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/tensorflow-original-wordmark.svg'> </a>
-<a href= https://pandas.pydata.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg'> </a>
-<a href= https://numpy.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg'> </a>
-<a href= https://pytorch.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg'> </a>
-<a href= https://www.php.net/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
-<a href= https://www.programiz.com/c-programming > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
+<a href= https://pandas.pydata.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/pandas-original-wordmark.svg'> </a>
+<a href= https://numpy.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/numpy-original-wordmark.svg'> </a>
+<a href= https://pytorch.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/pytorch-original-wordmark.svg'> </a>
+<a href= https://www.php.net/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/php-original.svg'> </a>
+<a href= https://www.programiz.com/c-programming > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/c-original.svg'> </a>
 <a href= https://www.programiz.com/cpp-programming > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://www.mysql.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-<a href= https://www.sqlite.org/index.html > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg'> </a>
-<a href= https://www.postgresql.org/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg'> </a>
-<a href= https://html.com/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'> </a>
-<a href= https://www.w3schools.com/css/ > <img width ='50px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg'> </a>
+<a href= https://www.mysql.com/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/mysql-original-wordmark.svg'> </a>
+<a href= https://www.sqlite.org/index.html > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/sqlite-original-wordmark.svg'> </a>
+<a href= https://www.postgresql.org/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/postgresql-original-wordmark.svg'> </a>
+<a href= https://html.com/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/html5-original-wordmark.svg'> </a>
+<a href= https://www.w3schools.com/css/ > <img width ='50px' src ='https://github.com/mdalaminmunna/mdalaminmunna/blob/main/resources/img/css3-original-wordmark.svg'> </a>
 
 <br>
 <br>
