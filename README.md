@@ -11,9 +11,9 @@
 
 <br>
 
-- 🔭 I’m currently working on Personal Website
+- 🔭 I’m currently working on a Personal Website
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [github.com/mdalaminmunna](https://github.com/mdalaminmunna)
 
